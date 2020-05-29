@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/4/Time.cpp
+Time.h
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/4/Time.h
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/4/Time.h
+iostream
+-
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/4/main.cpp
+Time.cpp
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/4/Time.cpp
+

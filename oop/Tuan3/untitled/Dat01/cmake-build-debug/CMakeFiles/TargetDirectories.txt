@@ -1,0 +1,3 @@
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/untitled/Dat01/cmake-build-debug/CMakeFiles/Dat01.dir
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/untitled/Dat01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/untitled/Dat01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ThanhPN/Documents/CPP/CTDL/untitled/main.cpp
+fstream
+-
+iostream
+-
+md5.h
+C:/Users/ThanhPN/Documents/CPP/CTDL/untitled/md5.h
+string
+-
+
+C:/Users/ThanhPN/Documents/CPP/CTDL/untitled/md5.h
+cstring
+-
+iostream
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/untitled1/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

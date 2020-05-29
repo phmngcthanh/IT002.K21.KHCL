@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/Point.cpp
+Point.h
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/Point.h
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/Point.h
+iostream
+-
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/TamGiac.cpp
+TamGiac.h
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/TamGiac.h
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/TamGiac.h
+Point.cpp
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/Point.cpp
+
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/main.cpp
+TamGiac.cpp
+C:/Users/ThanhPN/Documents/CPP/oop/Tuan3/2/TamGiac.cpp
+
